@@ -1,0 +1,7 @@
+# Scala compilation
+target/
+project/project
+project/target
+
+# Editor / IDE Files
+*.swp
