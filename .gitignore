@@ -6,3 +6,6 @@ project/target
 # Editor / IDE Files
 *.swp
 .idea/
+
+# keep it quiet
+readme.md
